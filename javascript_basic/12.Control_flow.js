@@ -51,6 +51,8 @@ IMPORTANT
 // ✔ Example:
 // console.log(), normal function calls
 
+
+
 // 📥 2. Callback Queue (Waiting Area)
 
 // 👉 Where completed async tasks wait
@@ -61,6 +63,8 @@ IMPORTANT
 
 // ✔ Example:
 // setTimeout, events, fetch
+
+
 
 // 🏭 3. Web APIs (Background Work)
 
