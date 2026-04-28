@@ -6,10 +6,17 @@
     <title>Document</title>
 </head>
 <body>
+    <h1 id="h1">Asynchronous JavaScript</h1>
     <script>
     const name=function(){
         console.log("rakesh");
     }
+    const change = function(){
+        const name='Rakesh'
+        document.querySelector('#h1').innerHTML=name;
+        
+    }
+    setTimeout(change,1000);
     setTimeout(name,2000)
 </script>
 </body>
