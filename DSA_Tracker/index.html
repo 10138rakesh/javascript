@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-white min-h-screen p-10">
+
+    <h1 class="text-4xl font-bold text-center mb-8">
+        DSA Progress Tracker
+    </h1>
+
+    <div class="flex gap-4 justify-center">
+
+        <input 
+            type="text"
+            id="questionInput"
+            placeholder="Enter question"
+            class="p-3 rounded-lg text-black w-80"
+        >
+
+        <select 
+            id="difficulty"
+            class="p-3 rounded-lg text-black"
+        >
+            <option value="Easy">Easy</option>
+            <option value="Medium">Medium</option>
+            <option value="Hard">Hard</option>
+        </select>
+
+        <button 
+            id="addBtn"
+            class="bg-blue-500 px-5 py-3 rounded-lg hover:bg-blue-700 transition"
+        >
+            Add
+        </button>
+
+    </div>
+
+    <div id="questionList" class="mt-10 space-y-4"></div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
