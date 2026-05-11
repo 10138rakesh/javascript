@@ -103,3 +103,7 @@ searchBtn.addEventListener("click", function () {
 
 
 renderMovies(movies);
+
+
+
+// this is a basically a movie search app that allows users to search for movies by title. The movies are stored in an array of objects, and the app filters the movies based on the user's input and displays the results dynamically on the page.
