@@ -48,3 +48,6 @@ addBtn.addEventListener("click", function () {
     renderQuestions();
 
 });
+
+
+// basically the same as movies search but with questions instead of movies and difficulty instead of year  
