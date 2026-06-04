@@ -142,3 +142,5 @@ console.log("End");
 // “IIFE is used to create a private scope and avoid global namespace pollution. 
 // It helps in preventing variable conflicts and is useful for executing code immediately.”
 
+// there are many other questions related to IIFE, but these are the most common ones.
+//and these are the best answers you can give in an interview. Make sure to understand the concept of IIFE and practice these questions to ace your interview!
