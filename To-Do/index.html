@@ -36,3 +36,27 @@
         border: 1px solid #ddd;
         border-radius: 4px;
     } -->
+
+
+    //this CSS will give your to-do list a clean and simple look. You can customize the styles further to suit your preferences. Now, let's add some JavaScript to handle the functionality of adding and clearing tasks:
+// ```html
+<!-- <script>
+    const input = document.getElementById('input');
+    const addButton = document.getElementById('add');
+    const clearButton = document.getElementById('clear');
+    const taskList = document.getElementById('taskList');
+
+    addButton.addEventListener('click', () => {
+        const task = input.value.trim();
+        if (task) {
+            const li = document.createElement('li');
+            li.textContent = task;
+            taskList.appendChild(li);
+            input.value = '';
+        }
+    });
+
+    clearButton.addEventListener('click', () => {
+        taskList.innerHTML = '';
+    });
+</script> -->
