@@ -8,5 +8,5 @@ sum(3,5);
 //to use this function, you can call it with different values for a and b to get their sum. For example, sum(10, 20) will return 30.
 
 
-
+// there are always two ways to define a function in JavaScript: function declaration and function expression. The above example is a function declaration.
 
