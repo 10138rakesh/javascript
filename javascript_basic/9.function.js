@@ -9,4 +9,10 @@ sum(3,5);
 
 
 // there are always two ways to define a function in JavaScript: function declaration and function expression. The above example is a function declaration.
+// there are also function expressions, which can be defined using the function keyword or using arrow functions. For example:
+
+// Function expression using the function keyword
+// const multiply = function(a, b) {
+//     return a * b;
+// };
 
