@@ -18,3 +18,16 @@ Welcome to my JavaScript learning repository! This repository contains my notes,
   - Destructuring
   - Spread & Rest Operators
 - DOM Manipulation
+📂 Projects
+
+- Calculator
+- To-Do App
+- Weather App
+- Movie Search App
+- Digital Clock
+- DSA Tracker
+- Quiz App
+
+## 🎯 Goal
+
+To build a strong foundation in JavaScript and prepare for Full Stack Development, React, and technical interviews.
