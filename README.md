@@ -31,3 +31,18 @@ Welcome to my JavaScript learning repository! This repository contains my notes,
 ## 🎯 Goal
 
 To build a strong foundation in JavaScript and prepare for Full Stack Development, React, and technical interviews.
+🛠️ Technologies & Tools
+JavaScript (ES6+)
+HTML5
+CSS3
+VS Code
+Git & GitHub
+Chrome Developer Tools
+📖 Learning Resources
+JavaScript Documentation (MDN)
+JavaScript.info
+FreeCodeCamp
+W3Schools
+YouTube Tutorials
+LeetCode & HackerRank for Practice
+📈 Progress Tracker
