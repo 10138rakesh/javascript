@@ -40,6 +40,30 @@ Git & GitHub
 Chrome Developer Tools
 📖 Learning Resources
 JavaScript Documentation (MDN)
+📈 Progress Tracker
+✅ JavaScript Basics
+✅ Variables & Data Types
+✅ Operators
+✅ Conditional Statements
+✅ Loops
+✅ Functions
+✅ Arrays
+✅ Objects
+✅ Strings
+⏳ ES6 Features
+⏳ DOM Manipulation
+⏳ Asynchronous JavaScript
+⏳ APIs & Fetch
+⏳ Local Storage
+⏳ Object-Oriented Programming
+⏳ Modules
+⏳ Advanced JavaScript Concepts
+💻 Practice Platforms
+LeetCode
+HackerRank
+CodeChef
+Codeforces
+GeeksforGeeks
 JavaScript.info
 FreeCodeCamp
 W3Schools
