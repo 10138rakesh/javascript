@@ -70,3 +70,52 @@ W3Schools
 YouTube Tutorials
 LeetCode & HackerRank for Practice
 📈 Progress Tracker
+📂 Repository Structure
+JavaScript/
+│── Basics/
+│── Variables/
+│── Operators/
+│── Conditionals/
+│── Loops/
+│── Functions/
+│── Arrays/
+│── Objects/
+│── Strings/
+│── ES6/
+│── DOM/
+│── Projects/
+│   ├── Calculator/
+│   ├── To-Do App/
+│   ├── Weather App/
+│   ├── Movie Search App/
+│   ├── Digital Clock/
+│   ├── DSA Tracker/
+│   └── Quiz App/
+│── README.md
+🌟 Future Learning
+Asynchronous JavaScript
+Promises
+Async/Await
+Fetch API
+Local Storage
+Object-Oriented Programming (OOP)
+Modules
+Error Handling
+JavaScript Design Patterns
+TypeScript Basics
+React.js
+Node.js
+Express.js
+🤝 Contributions
+
+This repository is mainly for my personal learning journey. Suggestions, improvements, and feedback are always welcome.
+
+⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ Star on GitHub. It motivates me to keep learning and sharing my progress!
+
+📬 Connect With Me
+GitHub: https://github.com/10138rakesh
+Happy Coding! 🚀✨
+
+"The best way to learn JavaScript is by building projects and solving problems every day."
