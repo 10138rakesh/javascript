@@ -119,3 +119,31 @@ GitHub: https://github.com/10138rakesh
 Happy Coding! 🚀✨
 
 "The best way to learn JavaScript is by building projects and solving problems every day."
+🚀 Upcoming Projects
+✅ Calculator
+✅ To-Do App
+⏳ Expense Tracker
+⏳ Notes App
+⏳ Password Generator
+⏳ Stopwatch & Timer
+⏳ Music Player
+⏳ E-Commerce Product Page
+🧠 Skills Gained
+JavaScript Fundamentals
+Problem Solving
+DOM Manipulation
+ES6+ Features
+API Integration
+Debugging
+Clean Code Practices
+Git & GitHub Workflow
+📅 Learning Roadmap
+✅ JavaScript Basics
+🔄 Advanced JavaScript
+🔄 React.js
+🔄 Node.js
+🔄 Express.js
+🔄 MongoDB
+🔄 Full Stack MERN Projects
+🔄 Data Structures & Algorithms
+🔄 Technical Interview Preparation
